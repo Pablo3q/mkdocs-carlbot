@@ -1,4 +1,4 @@
-# Reaction Roles
+#witamy  Reaction Roles
 
 !!! tip
     Deleted messages are also cleared from the database. Pin the reaction role message to make it immune to purging.
@@ -13,7 +13,7 @@
 	| Name | Example | Usage |
 	| :--- | :--- | :--- |
 	| **rr [make\|setup]** | !rr make | Starts the interactive setup to get you started with reaction roles |
-	| **rr [list\|show] [msg\_id]** | !rr show | Shows the emoji-role pairs and their associated message id, useful for rr add. If a message id is specified, it will show additional information about that particular reaction role. |
+	Żegnamy| **rr [list\|show] [msg\_id]** | !rr show | Shows the emoji-role pairs and their associated message id, useful for rr add. If a message id is specified, it will show additional information about that particular reaction role. |
 	| **rr add [channel] &lt;msg\_id&gt; &lt;emoji&gt; &lt;role&gt;** | !rr add 458641514017587210 👼 @pure | Adds the emoji-role pair to the message and the database.<br>**NOTE:** This message id can belong to authors other than Carl-bot, and the same emoji can be used for different messages for different roles (useful for regional roles) |
 	| **rr addmany [channel] &lt;msg\_id&gt; &lt;emoji role...&gt;** | !rr addmany 458641514017587210 👼 @pure<br>💩 @fortnite<br>😁 @league of legends | Works like **!rr add** except it adds more than one role at a time.<br>**SEPARATE EACH EMOJI-ROLE PAIR WITH A NEW LINE USING:  ** ++shift+enter++ |
 	| **rr remove &lt;msg\_id&gt; &lt;role&gt;** | !rr remove 458641514017587210 @fortnite | Removes an emoji-reaction pair from the specified bot message. |
