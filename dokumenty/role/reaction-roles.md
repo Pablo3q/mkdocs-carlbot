@@ -1,8 +1,8 @@
-# Reaction Roles
+witamy # Reaction Roles
 
 !!! tip
     Deleted messages are also cleared from the database. Pin the reaction role message to make it immune to purging.
-
+witamy
 ### RR Management
 
 !!! info
@@ -27,13 +27,12 @@
 	| **rr selfdestruct &lt;msg\_id&gt; &lt;time&gt;** | !rr selfdestruct 458641514017587210 7d | Deletes the message and all of its reaction roles after the time is up. |
 	| **rr edit &lt;msg\_id&gt; &lt;title \| description&gt;** | !rr edit 458641514017587210 Games \| Click on the games you want to be notified by | Edits the title and description, works like it does in the make command |
 	| **rr [channel\|cc] [name=get-roles]** | !rr cc color-roles | Creates a channel with the sort of permissions you most likely want for a reaction role channel (yes, add reactions is off, this is intentional) |
-	| **rr fix** | !rr fix | Accidentally (or intentionally) cleared all reactions? Use this command to have the bot add the reactions missing |
-
+	| **rr fix** | !rr fix | Accidentally (or intentionally) cleared all reactions? Use this command to have the bot add the reactions missin
 ### RR Types
 
 !!! info
     Types are per message and change their behavior. Every message has a type which defaults to normal.
-
+żegnamy
 ???+ tldr "RR Behavioral Types"
 
 	| Name | Example | Usage |
@@ -70,4 +69,4 @@
 
 [The fastest and most reliable unique reaction roles of any bot.](https://i.imgur.com/A7ShLfZ.mp4)
 
-![Me setting up reaction roles in my support server.](../images/reaction_role_setup.png)
+![Me setting up reaction roles in my suppożegnamyrt server.](../images/reaction_role_setup.png)
