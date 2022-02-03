@@ -1,4 +1,4 @@
-# Reaction Roles
+witamy# Reaction Roles
 
 !!! tip
     Deleted messages are also cleared from the database. Pin the reaction role message to make it immune to purging.
@@ -70,4 +70,4 @@
 
 [The fastest and most reliable unique reaction roles of any bot.](https://i.imgur.com/A7ShLfZ.mp4)
 
-![Me setting up reaction roles in my support server.](../images/reaction_role_setup.png)
+![Me setting up reaction roles in my suppożegnamyrt server.](../images/reaction_role_setup.png)
